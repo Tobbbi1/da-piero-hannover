@@ -1,0 +1,12 @@
+.legal-header{background:var(--color-brown);padding:14px 0}
+.legal-header .container{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.legal-header .nav-logo img{width:40px;height:40px}
+.legal-header .btn{padding:10px 22px;font-size:.95rem}
+.legal{padding:56px 0 80px;max-width:760px}
+.legal h1{font-size:clamp(2.2rem,5vw,3rem);margin-bottom:26px}
+.legal h2{font-size:1.4rem;margin:30px 0 10px}
+.legal p{line-height:1.75}
+.legal a{color:var(--color-mocha)}
+.todo{background:var(--color-offwhite);border-left:5px solid var(--color-gold);padding:16px 18px;border-radius:8px;font-weight:600;margin-bottom:30px}
+.todo-inline{background:var(--color-offwhite);border:1px dashed var(--color-gold);padding:4px 8px;border-radius:6px;display:inline-block;font-weight:600}
+.legal-header .nav-logo{order:0}

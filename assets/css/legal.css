@@ -1,6 +1,6 @@
 .legal-header{background:var(--color-brown);padding:14px 0}
 .legal-header .container{display:flex;align-items:center;justify-content:space-between;gap:16px}
-.legal-header .nav-logo img{width:40px;height:40px}
+.legal-header .nav-logo img{width:52px;height:auto}
 .legal-header .btn{padding:10px 22px;font-size:.95rem}
 .legal{padding:56px 0 80px;max-width:760px}
 .legal h1{font-size:clamp(2.2rem,5vw,3rem);margin-bottom:26px}
